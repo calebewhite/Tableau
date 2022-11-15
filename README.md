@@ -1,6 +1,6 @@
 # Tableau 
 
-## Here is a sample of work I've done in Tableau.
+## Here is a sample of what I've done with Tableau.
 
 # Interactive Customer Segmentation Dashboard:
 (https://public.tableau.com/views/SegmentationDashboard_16684782620470/CustomerSegmentationDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
